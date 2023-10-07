@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+     <meta charset="UTF-8">
+     <title>原来你也玩原神</title>
+</head>
+<body>
+     <marquee>原神，启动！</marquee>
+</body>
+</html>
